@@ -213,13 +213,11 @@ padding: 79px;
 .pay {
 	font-size: 70px;
 	color: white;
-
 } 
 
 .pay sup {
 	font-size: 20px;
 	color: white;
-
 } 
 
 .pay sub {
@@ -251,13 +249,11 @@ hr{
 }
 
 #btn3 {
-
 	background: #41521F;
 	border: none;
 	font-weight: bold;
 	margin-top: 6px;
 	margin-right: 140px;
-
 }
 
 #cajas {
@@ -288,18 +284,15 @@ hr{
 	padding-top: 0px;
 	padding-left: 80px;
 }
+
 .section-footer span{
 	font-weight: bold;
 	color: #A89F68;
-
-
 }
 
 #column {
-
 	padding: 60px;
 	margin-top: 63px;
-	
 }
 
 .enlaces a{
